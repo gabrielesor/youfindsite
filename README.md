@@ -1,114 +1,114 @@
-# Specifiche Landing Page — YouFind.com
+# Landing Page Specifications — YouFind.com
 
-## Obiettivo del progetto
+## Project Goal
 
-Realizzare una landing page minimalista e professionale per il dominio **YouFind.com**, con lo scopo di presentarlo come asset digitale premium disponibile per acquisizione.
+Create a minimalist and professional landing page for **YouFind.com**, presenting the domain as a premium digital asset available for acquisition.
 
-Il sito NON deve sembrare:
-- un parked domain generico,
-- una pagina “cheap” di vendita domini,
-- una startup SaaS standard,
-- una landing aggressiva di marketing.
+The website should NOT look like:
+- a generic parked domain,
+- a cheap “domain for sale” page,
+- a standard SaaS startup landing page,
+- an aggressive marketing funnel.
 
-Il sito deve invece trasmettere:
-- valore,
-- semplicità,
-- autorevolezza,
-- modernità,
-- riservatezza,
-- percezione premium.
+Instead, the website should communicate:
+- value,
+- simplicity,
+- authority,
+- modernity,
+- discretion,
+- premium positioning.
 
-L’approccio visivo deve essere elegante, minimale e molto pulito.
-
----
-
-# Requisiti principali
-
-## Lingua
-
-Tutto il sito deve essere in inglese.
+The overall visual approach should feel elegant, minimal, and very clean.
 
 ---
 
-## Stile grafico
+# Main Requirements
 
-### Mood desiderato
+## Language
 
-- Minimalista
+The entire website must be in English.
+
+---
+
+## Visual Style
+
+### Desired Mood
+
+- Minimalist
 - Premium
-- Pulito
-- Moderno
-- Sobrio
-- Tecnologico ma non “cyber”
-- Elegante
-- Molto arioso
+- Clean
+- Modern
+- Sophisticated
+- Technological but not “cyber”
+- Elegant
+- Spacious / airy
 
-### Da evitare assolutamente
+### Must Avoid
 
 - Stock photos
-- Hero image fotografiche
-- Illustrazioni cartoon
-- Grafica “startup template”
-- Troppi colori
-- Gradienti aggressivi
-- Effetti glow/neon
-- Animazioni invasive
-- Aspetto “crypto”
-- Aspetto “AI buzzword”
-- Effetto “landing piena di marketing”
+- Photographic hero images
+- Cartoon illustrations
+- Generic startup-template visuals
+- Too many colors
+- Aggressive gradients
+- Neon/glow effects
+- Intrusive animations
+- “Crypto” aesthetics
+- “AI buzzword” aesthetics
+- Over-marketed landing page feeling
 
 ---
 
-# Layout generale
+# General Layout
 
-Landing page single-page molto semplice.
+Very simple single-page landing page.
 
-Indicativamente:
+Indicative structure:
 
 1. Hero section
-2. Breve descrizione del valore del dominio
-3. Form di contatto
-4. Footer minimale
+2. Short description of the domain value
+3. Contact form
+4. Minimal footer
 
 ---
 
-# Hero section
+# Hero Section
 
-## Elementi richiesti
+## Required Elements
 
-### Logo / wordmark
+### Logo / Wordmark
 
-Creare:
-- logo minimale
-oppure
-- wordmark professionale
+Create:
+- a minimalist logo
+or
+- a professional wordmark.
 
-Il logo deve essere:
-- riconoscibile,
-- elegante,
-- facilmente riutilizzabile,
-- adatto sia a sfondo chiaro che scuro.
+The logo should be:
+- recognizable,
+- elegant,
+- reusable,
+- suitable for both light and dark backgrounds.
 
-Preferenza:
-- design tipografico raffinato,
-- eventuale simbolo semplice e geometrico,
-- evitare icone banali tipo lente d’ingrandimento troppo evidente.
+Preferred direction:
+- refined typography,
+- optional simple geometric symbol,
+- avoid obvious magnifying glass icons or cliché search imagery.
 
 ---
 
-## Headline principale
+## Main Headline
 
-Testo orientativo:
+Suggested wording:
 
 > YouFind.com is available for acquisition.
 
-Oppure una variante equivalente elegante e minimale.
+Or an equivalent elegant and minimal variation.
 
 ---
 
-## Sottotitolo
+## Subtitle
 
-Testo breve che suggerisca il potenziale del dominio in ambito:
+Short text suggesting the potential of the domain in areas such as:
 - search,
 - AI,
 - discovery,
@@ -116,65 +116,65 @@ Testo breve che suggerisca il potenziale del dominio in ambito:
 - recommendation systems,
 - digital products.
 
-Il tono deve essere:
-- sobrio,
-- professionale,
-- non eccessivamente commerciale.
+Tone should be:
+- restrained,
+- professional,
+- not overly commercial.
 
 ---
 
 ## CTA
 
-Una call to action semplice.
+Simple call to action.
 
-Esempi:
+Examples:
 - Inquire about acquisition
 - Contact the owner
 - Submit an inquiry
 
 ---
 
-# Sezione contenuto
+# Content Section
 
-Breve sezione descrittiva del valore del dominio.
+Short section describing the value of the domain.
 
-Concetti da trasmettere:
-- dominio corto,
-- memorabile,
+Key concepts to communicate:
+- short domain,
+- memorable,
 - versatile,
 - brandable,
 - premium .com,
-- adatto a molte categorie digitali moderne.
+- suitable for modern digital categories.
 
-Il testo deve essere:
-- sintetico,
-- elegante,
-- leggibile,
-- non troppo lungo.
+Text should be:
+- concise,
+- elegant,
+- readable,
+- not excessively long.
 
 ---
 
-# Form di contatto
+# Contact Form
 
-## Obiettivo
+## Goal
 
-Consentire contatti seri per eventuale acquisizione del dominio.
+Allow serious acquisition inquiries regarding the domain.
 
-Il form NON deve sembrare:
+The form should NOT feel:
 - spammy,
-- complesso,
-- invasivo.
+- complicated,
+- invasive.
 
 ---
 
-## Campi richiesti
+## Required Fields
 
-### Obbligatori
+### Mandatory
 - Full name
 - Business email
 - Message
 
-### Opzionali
+### Optional
 - Company / organization
 - Website / LinkedIn
 - Intended use
@@ -182,158 +182,158 @@ Il form NON deve sembrare:
 
 ---
 
-## UX del form
+## Form UX
 
-- Molto semplice
-- Molto pulita
+- Very simple
+- Very clean
 - Responsive
-- Accessibile
-- Validazione base
-- Nessun captcha invasivo
+- Accessible
+- Basic validation
+- No invasive captcha
 
 ---
 
 ## Anti-spam
 
-Implementare una protezione anti-bot moderna e non invasiva.
+Implement a modern and non-intrusive anti-bot protection.
 
-Preferenza:
-- soluzione invisibile o quasi invisibile.
+Preferred:
+- invisible or almost invisible solution.
 
 ---
 
 # Footer
 
-Footer molto minimale.
+Very minimal footer.
 
-Elementi:
-- link Privacy
-- link Terms / Policy (se necessario)
-- eventuale copyright minimale
+Elements:
+- Privacy link
+- Terms / Policy link (if needed)
+- Minimal copyright
 
 NO:
-- social
-- numeri di telefono
-- indirizzi fisici
-- elementi superflui
+- social media
+- phone numbers
+- physical addresses
+- unnecessary elements
 
 ---
 
 # Privacy / Policy
 
-Il designer/sviluppatore dovrà predisporre:
+The designer/developer should prepare:
 
-## Privacy Notice minimale
+## Minimal Privacy Notice
 
-Con:
-- spiegazione del form,
-- dati raccolti,
-- finalità del contatto,
-- email di riferimento,
-- policy semplice e non burocratica.
-
----
-
-## Cookie policy
-
-Idealmente:
-- evitare tracking invasivo,
-- evitare cookie banner complessi,
-- evitare strumenti marketing non necessari.
+Including:
+- explanation of the contact form,
+- collected data,
+- purpose of the contact,
+- contact email,
+- simple and non-bureaucratic policy.
 
 ---
 
-# Responsive design
+## Cookie Policy
 
-Il sito deve essere:
-- perfettamente mobile friendly,
-- molto veloce,
-- leggibile su desktop e smartphone.
+Ideally:
+- avoid invasive tracking,
+- avoid complex cookie banners,
+- avoid unnecessary marketing tools.
+
+---
+
+# Responsive Design
+
+The website must be:
+- fully mobile friendly,
+- very fast,
+- readable on both desktop and mobile devices.
 
 ---
 
 # Performance
 
-Priorità molto alta a:
-- caricamento veloce,
-- leggerezza,
-- pulizia codice,
-- ottimizzazione immagini/SVG.
+Very high priority on:
+- fast loading,
+- lightweight implementation,
+- clean code,
+- optimized images/SVGs.
 
 ---
 
-# SEO base
+# Basic SEO
 
-Richiesto:
+Required:
 - title tag
 - meta description
 - Open Graph tags
 - favicon
-- struttura HTML semantica base
+- basic semantic HTML structure
 
-NON è richiesto:
-- SEO avanzato,
+NOT required:
+- advanced SEO,
 - blog,
 - CMS,
-- contenuti dinamici.
+- dynamic content.
 
 ---
 
-# Aspetto tecnico desiderato
+# Desired Technical Approach
 
-Il sito deve essere:
-- statico,
-- semplice da mantenere,
-- facilmente deployabile,
-- senza dipendenze inutili.
+The website should be:
+- static,
+- easy to maintain,
+- easy to deploy,
+- free from unnecessary dependencies.
 
 NO:
-- backend complessi,
-- database,
-- CMS pesanti,
+- complex backends,
+- databases,
+- heavy CMS platforms,
 - over-engineering.
 
 ---
 
-# Tono generale del progetto
+# Overall Tone of the Project
 
-La pagina deve comunicare:
+The page should communicate:
 
-> “Questo è un asset digitale premium detenuto privatamente, disponibile per una trattativa seria.”
+> “This is a privately held premium digital asset available for serious acquisition discussions.”
 
-NON deve comunicare:
+It should NOT communicate:
 
-> “Sto cercando disperatamente di vendere un dominio.”
+> “I am desperately trying to sell a domain.”
 
 ---
 
-# Priorità assolute
+# Top Priorities
 
-1. Eleganza
-2. Minimalismo
-3. Credibilità
-4. Chiarezza
+1. Elegance
+2. Minimalism
+3. Credibility
+4. Clarity
 5. Performance
-6. Esperienza mobile
-7. Sensazione premium
+6. Mobile experience
+7. Premium feel
 
 ---
 
-# Deliverable richiesti
+# Requested Deliverables
 
 ## Design
-- versione desktop
-- versione mobile
+- desktop version
+- mobile version
 - logo / wordmark
 - favicon
 
 ## Frontend
-- landing completa responsive
-- form funzionante
+- complete responsive landing page
+- working contact form
 - privacy/policy pages
-- configurazione base SEO metadata
+- basic SEO metadata setup
 
-## Asset
-- file sorgenti design
-- file esportati web
-- eventuali SVG/logo in formato vettoriale
+## Assets
+- source design files
+- exported web assets
+- SVG/vector logo files
