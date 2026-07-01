@@ -1,6 +1,6 @@
 # Landing Page Specifications — YouFind.com
 
-## Project Goal
+## Project Goal.
 
 Create a minimalist and professional landing page for **YouFind.com**, presenting the domain as a premium digital asset available for acquisition.
 
